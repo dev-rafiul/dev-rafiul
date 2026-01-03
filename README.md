@@ -63,13 +63,11 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/your-username">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  
+  <a href="https://linkedin.com/in/dev-rafi">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://twitter.com/rafiulX">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
