@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dev-rafiul.dev-rafiul">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -84,18 +84,6 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 
 ---
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dev-rafiul&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dev-rafiul&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-rafiul&show_icons=true" />
-</picture>
----
 
 ---
 
