@@ -87,7 +87,7 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 ## 📈 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dev-rafiul&theme=vision-friendly-dark" />
+  <img src="https://streak-stats.demolab.com/?user=dev-rafiul&theme=dark" />
 </p>
 
 
