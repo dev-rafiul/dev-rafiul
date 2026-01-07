@@ -79,7 +79,7 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 ## 📊 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahialamDev&theme=react-dark&hide_border=true&area=true" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-rafiul&theme=react-dark&hide_border=true&area=true" width="60%" />
 </div>
 
 ---
@@ -87,7 +87,7 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 ## 📈 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MahialamDev&theme=vision-friendly-dark" width="60%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dev-rafiul&theme=vision-friendly-dark" width="60%" />
 </div>
 
 
