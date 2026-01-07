@@ -74,19 +74,24 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahialamDev&theme=react-dark&hide_border=true&area=true" width="60%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
+---
+
+## 📈 GitHub Streak Stats
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MahialamDev&theme=vision-friendly-dark" width="60%" />
+</div>
+
+
+---
 
 ---
 
