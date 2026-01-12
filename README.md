@@ -12,7 +12,7 @@
 
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Rafiul Islam</h1>
-<h3 align="center">Frontend Web Developer | JavaScript & React Enthusiast</h3>
+<h3 align="center">Frontend Web Developer </h3>
 
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
