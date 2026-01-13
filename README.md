@@ -83,7 +83,18 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 </div>
 
 ---
+### 📫 Reach Out to Me
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafiulislam040@gmail.com "Connect via Email") [![LinkedIn Badge](https://img.shields.io/badge/%40-LinkedIn-blue)](https://www.linkedin.com/in/dev-rafi/ "Connect on LinkedIn") [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+8801903168428 "Contact on WhatsApp") [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://dev-rafiul.netlify.app "Visit Portfolio") [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/devrafiul0 "Connect on Facebook")
+
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dev-rafiul?cardType=github&theme=dracula&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=dev-rafiul&show_icons=true&theme=transparent)
+
+## [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=dev-rafiul)](https://github.com/dev-rafiul)
+
+---
 
 <p align="center">
   ⭐️ From Rafiul — building one project at a time
