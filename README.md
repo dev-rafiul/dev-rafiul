@@ -55,7 +55,7 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-##### Deplpyment
+##### Deployment
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Zeeploy](https://img.shields.io/badge/Zeeploy-6C63FF?style=flat-square&logoColor=white)
