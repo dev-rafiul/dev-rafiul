@@ -1,10 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dev-rafiul.dev-rafiul">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+RAFIUL+ISLAM....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Rafiul%20Islam&fontSize=40&fontColor=ffffff&animation=fadeIn" />
