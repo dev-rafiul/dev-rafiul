@@ -67,17 +67,14 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 
 ---
 
-## 🌐 Connect With Me
+### Where to find me
 
-<p>
-  
-  <a href="https://linkedin.com/in/dev-rafi">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/rafiulX">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-rafi/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rafiulX)
+[![website](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://dev-rafiul.netlify.app)
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/devrafiul0)
+
+
 
 ---
 
