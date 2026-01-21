@@ -1,10 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dev-rafiul.dev-rafiul">
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Rafiul%20Islam&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Rafiul Islam</h1>
 <h3 align="center">Frontend Web Developer </h3>
