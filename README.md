@@ -110,9 +110,6 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 
 ---
 
-## [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=dev-rafiul)](https://github.com/dev-rafiul)
-
----
 
 <p align="center">
   ⭐️ From Rafiul — building one project at a time
