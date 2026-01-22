@@ -2,7 +2,12 @@
 
 
 <!-- Name & Designation -->
-<h1 align="center">Hi 👋, I'm Rafiul Islam</h1>
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Rafiul+Islam;+Welcome+to+My+Profile)](https://git.io/typing-svg)
+
+</div>
+
 <h3 align="center">Frontend Web Developer </h3>
 
 
@@ -14,6 +19,25 @@
 
 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 ---
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/dev-rafiul/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=dev-rafiul&show_icons=true&theme=transparent&border_color=00FF00&text_color=FFFFFF&title_color=FFFFFF&icon_color=00FF00&ring_color=00FF00&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dev-rafiul">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-rafiul&theme=transparent&ring=FF5733&stroke=FFFFFF&fire=FF5733&currStreakLabel=FF5733&sideNums=FFFFFF&sideLabels=FFFFFF&dates=00FF00&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ## 🚀 About Me
 
