@@ -28,7 +28,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/dev-rafiul">
+        <a href="https://github.com/dev-rafiul/github-readme-stats">
           <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-rafiul&theme=transparent&ring=FF5733&stroke=FFFFFF&fire=FF5733&currStreakLabel=FF5733&sideNums=FFFFFF&sideLabels=FFFFFF&dates=00FF00&hide_border=true" />
         </a>
       </td>
