@@ -19,17 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=dev-rafiul&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" width='100%' alt="GitHub Insights" />
-</p>
-
-<!-- <div align="center"> -->
-
-<!-- Row 1: Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-rafiul&theme=react-dark" width="100%" />
-
 
 ## 🚀 About Me
 
@@ -94,11 +83,17 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-rafiul&theme=react-dark&hide_border=true&area=true" width="60%" />
-</div>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=dev-rafiul&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" width='100%' alt="GitHub Insights" />
+</p>
+
+<!-- <div align="center"> -->
+
+<!-- Row 1: Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-rafiul&theme=react-dark" width="100%" />
+
 
 ---
 
