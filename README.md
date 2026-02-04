@@ -70,8 +70,6 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 ![Surge](https://img.shields.io/badge/Surge-FF0066?style=flat-square&logo=surge&logoColor=white)
 
 
----
-
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-rafi/)
@@ -80,8 +78,6 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/devrafiul0)
 
 
-
----
 
 ## 📊 GitHub Stats
 
