@@ -19,22 +19,35 @@
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/dev-rafiul/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=dev-rafiul&show_icons=true&theme=transparent&border_color=00FF00&text_color=FFFFFF&title_color=FFFFFF&icon_color=00FF00&ring_color=00FF00&hide_border=true" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dev-rafiul/github-readme-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-rafiul&theme=transparent&ring=FF5733&stroke=FFFFFF&fire=FF5733&currStreakLabel=FF5733&sideNums=FFFFFF&sideLabels=FFFFFF&dates=00FF00&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=dev-rafiul&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" width='100%' alt="GitHub Insights" />
+</p>
+
+<!-- <div align="center"> -->
+
+<!-- Row 1: Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-rafiul&theme=react-dark" width="100%" />
+
+
+<!-- Row 2: Stats + Streak -->
+<!-- <img src="https://streak-stats.demolab.com?user=SAADFEROZEE&theme=radical" width="49.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> -->
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saadferozee&show_icons=true&theme=radical" width="49.5%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> <br/> -->
+
+<!-- Row 3: Top Languages + Most Used Repo -->
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saadferozee&layout=compact&theme=radical" width="44.15%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> -->
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saadferozee&repo=Ticket_Kinen_app&theme=radical" width="54.35%" style="border-radius: 10px; box-shadow: 5 5 10px rgba(0,0,0,0.5);" /> -->
+
+<!-- </div> -->
+
+---
+
+<!-- ## 🐍 GitHub Contributions Snake
+
+![Snake animation](https://github.com/saadferozee/saadferozee/blob/output/github-contribution-grid-snake.svg)
+
+--- 
 
 
 
