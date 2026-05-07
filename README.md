@@ -10,10 +10,10 @@
 
 ---
 
-<h3 align="center">Frontend Web Developer </h3>
+<h3 align="center">Frontend Web Developer / MERN Stack Developer </h3>
 
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+𝑰 ❤️ Learning New Concepts Day by Day!
 
 :computer: 𝑨 𝒘𝒆𝒃 𝒅𝒆𝒗 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 𝙍𝙚𝙖𝙘𝙩.𝒋𝒔.
 
@@ -23,17 +23,18 @@
 ## 🚀 About Me
 
 I’m a passionate web developer focused on building clean, responsive, and user-friendly web applications.  
-Currently sharpening my JavaScript logic and React skills through real-world projects.  
-I enjoy learning by building and aim to grow into a professional full-stack developer.
+Currently sharpening my JavaScript logic and Next.Js skills through real-world projects.
+SDLC CI/CD Pipelines & Rest APIs Modern Web Applications Developer.
+I enjoy learning by building and aim to grow into a professional Ai Integration Scalable Systems & Cloud Technologies.
 
 ---
 
 ## 🔭 Current Activities
 
-- 🌱 Exploring **Next.js**
-- 🧠 Improving **JavaScript problem-solving**
-- 🏗️ Working on a **Shareing Website**
-- 🎯 Preparing for an interview **freelancing & remote jobs**
+- 🌱 Exploring **Typescript**
+- 🧠 Improving **problem-solving Mindset**
+- 🏗️ Vision on a **Ai integration Cloud Technologies**
+- 🎯 Preparing for an interview **Remote / Onsite / Hybrid**
 
 ---
 
@@ -44,7 +45,9 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-0081CB?style=flat-square&logo=redux&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ##### ⚙️ Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -52,6 +55,7 @@ I enjoy learning by building and aim to grow into a professional full-stack deve
 
 ##### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ##### Authentication
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
