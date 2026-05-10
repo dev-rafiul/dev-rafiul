@@ -22,8 +22,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate web developer focused on building clean, responsive, and user-friendly web applications.  
-Currently sharpening my JavaScript logic and Next.Js skills through real-world projects.
+I’m a passionate web developer focused on building clean, responsive, and user-friendly web applications. Currently sharpening my JavaScript logic and Next.Js skills through real-world projects.
 SDLC CI/CD Pipelines & Rest APIs Modern Web Applications Developer.
 I enjoy learning by building and aim to grow into a professional Ai Integration Scalable Systems & Cloud Technologies.
 
